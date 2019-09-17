@@ -1,0 +1,7 @@
+The total Months are: 85
+The Total Profit of the Balance is: 38382578
+The Maximum Profit is: 1170593
+The Minimum Profit is: -1196225
+The Average Change is: -2315.1176470588234
+The Greatest increase is: 1926159
+The Greatest Decrease is: -2196167

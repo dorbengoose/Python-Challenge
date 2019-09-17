@@ -1,0 +1,8 @@
+The total Votes are: 3521001
+The WHOLE ELECTION RESULTS are as follows:
+ Counter({'Khan': 2218231, 'Correy': 704200, 'Li': 492940, "O'Tooley": 105630})
+The winner is Khan with: 63%, 2218231 votes
+The second place is for Correy with: 20%, 704200 votes
+The third place is for Li with: 14%, 492940 votes
+The fouth place is for O'Tooley with: 3%, 105630 votes
+The absolute winner is Khan: 2218231
