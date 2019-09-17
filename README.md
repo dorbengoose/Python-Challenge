@@ -1,2 +1,4 @@
 # Python-Challenge
-Homework 03 Python
+RICARDO REYNOSO RAMOS
+HOMEWORK 03 PYTHON
+
